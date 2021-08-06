@@ -1,8 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFEB94&height=300&section=header&text=NaYeoWon&fontSize=70&fontAlignY=40&desc=front-end%20Developer&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFEB94&height=300&section=header&text=Welcome%20to%20여원's%20GitHub!&fontSize=60&fontColor=000000)
 
-
-## Ask me about ✉ 
+## Profile
+- 나여원(Na Yeowon)
+- 27세/여(1995.07.16) 
 - duwon716@daum.net
+
+## Education
+- 2020.11 ~ 2021.04 (주)아이티윌 디지털컨버전스 엔지니어 양성과정
+
 
 ## Skill
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
