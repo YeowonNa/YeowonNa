@@ -1,12 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFEB94&height=300&section=header&text=Welcome%20to%20여원's%20GitHub!&fontSize=60&fontColor=000000)
-
-## Profile
-- 나여원(Na Yeowon)
-- 27세/여(1995.07.16) 
-- duwon716@daum.net
-
-## Education
-- 2020.11 ~ 2021.04 (주)아이티윌 디지털컨버전스 엔지니어 양성과정
 
 
 ## Skill
